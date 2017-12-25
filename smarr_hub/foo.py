@@ -1,0 +1,3 @@
+#smarr foo
+
+print "smarr"

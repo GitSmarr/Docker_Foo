@@ -1,3 +1,0 @@
-#smarr foo
-
-print "smarr"
